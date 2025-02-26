@@ -1,0 +1,56 @@
+# ASP.NET Core
+bin/
+obj/
+
+# User-specific files
+.idea/
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# VS Code settings
+.vscode/
+
+# .NET Core Build Files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# .NET Core SDK files
+.globaljson
+
+# ASP.NET Core temporary files
+# See https://github.com/aspnet/Docs/blob/master/aspnetcore/tutorials/debugging.md#aspnet-core-logging
+wwwroot/
